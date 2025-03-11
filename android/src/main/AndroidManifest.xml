@@ -1,1 +1,3 @@
-<manifest package="com.ko2ic.imagedownloader" />
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+  package="com.ko2ic.imagedownloader">
+</manifest>

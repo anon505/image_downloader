@@ -6,7 +6,7 @@ import 'package:flutter/services.dart';
 class ImageDownloader {
   /// MethodChannel of image_downloader.
   static const MethodChannel _channel =
-      const MethodChannel('plugins.ko2ic.com/image_downloader');
+      MethodChannel('plugins.ko2ic.com/image_downloader');
 
   /// private constructor.
   ImageDownloader._();
