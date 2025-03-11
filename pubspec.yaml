@@ -35,7 +35,7 @@ flutter:
   plugin:
     platforms:
       android:
-        package: com.example.image_downloader
+        package: com.ko2ic.imagedownloader
         pluginClass: ImageDownloaderPlugin
       ios:
         pluginClass: ImageDownloaderPlugin
